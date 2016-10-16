@@ -3,7 +3,7 @@
 ### Setup
 
     $ bundle install
-    $ bin/rake db:setup
+    $ bin/rails db:setup
 
 ### Launch
 
